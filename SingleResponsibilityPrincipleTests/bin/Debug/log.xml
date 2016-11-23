@@ -1,0 +1,4 @@
+<log><message>WARN: Trade amount is greater than 100000: '4444' </message></log>
+<log><message>WARN: Trade amount is below 1000: '999' </message></log>
+<log><message>WARN: Trade amount is greater than 100000: '1000' </message></log>
+<log><message>WARN: Trade amount is below 1000: '-10000' </message></log>

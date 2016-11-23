@@ -1,0 +1,6 @@
+<log><message>WARN: Trade amount is greater than 100000: '1000' </message></log>
+<log><message>WARN: Trade amount is greater than 100000: '1500' </message></log>
+<log><message>WARN: Trade amount is greater than 100000: '1200' </message></log>
+<log><message>WARN: Trade amount is greater than 100000: '10000' </message></log>
+<log><message>INFO: Connecting to Database </message></log>
+<log><message>INFO: 0 trades processed </message></log>
